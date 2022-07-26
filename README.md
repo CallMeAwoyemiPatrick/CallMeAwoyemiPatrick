@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CallMeAwoyemiPatrick
+- 👋 Hi, I’m @AwoyemiPatrick
 - 👀 I’m interested in Front-End development / AI development
 - 🌱 I’m currently learning Front-End Mobile App Development
 - 💞️ I’m looking to collaborate on Front-End development project
